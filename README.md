@@ -1,13 +1,14 @@
 # Smoking_Health_Risk-Analysis
-An interactive data analytics dashboard that explores the impact of smoking on human health using visual storytelling and health indicators. This project highlights how smoking status correlates with organ damage, cholesterol levels, hypertension risk, age groups, and gender patterns.
-🔍 Key Features
+An interactive **data analytics dashboard** that explores the impact of smoking on human health using visual storytelling and health indicators. This project highlights how smoking status correlates with **organ damage, cholesterol levels, hypertension risk, age groups, and gender patterns.**
 
-📊 Smoking Status Analysis: Never, Current, and Former smokers distribution
+# 🔍 Key Features
 
-🧑‍🤝‍🧑 Gender-wise Insights: Smoking trends across male and female populations
+📊 **Smoking Status Analysis:** Never, Current, and Former smokers distribution
 
-🫀 Organ Health View: Visual focus on heart, lungs, liver, and kidneys
+🧑‍🤝‍🧑 **Gender-wise Insights:** Smoking trends across male and female populations
 
-📈 Risk Evaluation: Cholesterol & blood pressure risk across age groups
+🫀 **Organ Health View:** Visual focus on heart, lungs, liver, and kidneys
 
-⏱️ Smoking Behavior Trends: Duration and daily intake by age
+📈 **Risk Evaluation:** Cholesterol & blood pressure risk across age groups
+
+⏱️ **Smoking Behavior Trends:** Duration and daily intake by age
